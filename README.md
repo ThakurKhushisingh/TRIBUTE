@@ -1,2 +1,2 @@
 # TRIBUTE
-Tribute page
+Tribute page based on HTML and CSS.
